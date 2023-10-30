@@ -1,0 +1,53 @@
+/*.alladmin {
+  display: flex;
+  flex-direction: column;
+}
+
+.container-select {
+  margin-bottom: 50px;
+}*/
+
+.btn-admin {
+  background-color: #007bff; /* Couleur bleue pour le bouton */
+  color: #fff; /* Couleur du texte du bouton */
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.alla {
+  display: flex;
+  justify-content: space-between;
+}
+
+.h2admin {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 40px;
+}
+
+.h3admin {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+.padmin {
+  display: flex;
+  justify-content: space-around;
+}
+
+.admin-select {
+  margin-left: 50px;
+  margin-bottom: 40px;
+  width: 230px;
+}
+
+.alladmin {
+  display: flex;
+  flex-direction: column;
+}
+
+.pageadmin {
+  padding-top: 100px;
+}
